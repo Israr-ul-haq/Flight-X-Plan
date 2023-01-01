@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.5" height="33.495" viewBox="0 0 30.5 33.495">
+  <g id="Group_20389" data-name="Group 20389" transform="translate(-1116.5 -50)">
+    <g id="Icon_feather-bell" data-name="Icon feather-bell" transform="translate(1113.5 49)">
+      <path id="Path_20015" data-name="Path 20015" d="M27,12A9,9,0,0,0,9,12C9,22.5,4.5,25.5,4.5,25.5h27S27,22.5,27,12" fill="none" stroke="#193566" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_20016" data-name="Path 20016" d="M20.595,31.5a3,3,0,0,1-5.19,0" fill="none" stroke="#193566" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <circle id="Ellipse_22" data-name="Ellipse 22" cx="5.5" cy="5.5" r="5.5" transform="translate(1136 50)" fill="#00caee"/>
+  </g>
+</svg>
